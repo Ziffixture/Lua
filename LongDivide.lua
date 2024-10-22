@@ -3,7 +3,7 @@ Author     Ziffixture (74087102)
 Date       24/09/28 (YY/MM/DD)
 Version    1.1.0
 
-Console application that emulates long-division procedure.
+Console application that emulates an integer long-division procedure.
 ]]
 
 
